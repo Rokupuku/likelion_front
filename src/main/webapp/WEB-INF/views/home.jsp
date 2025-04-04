@@ -30,5 +30,34 @@
 		<article></article>
 		
 		<img style="width:260px; height:260px; object-fit:cover; border-radius:50%" src="https://fastly.picsum.photos/id/9/250/300.jpg?hmac=Wi5kRxzDwb8n2b8CO8qd2W4EoVcaKNesNCO8zTngKY4"/>
+		<br><input placeholder="Search" value="Hello"><button>search</button><br>
+		<input placeholder="id"><input type="password" placeholder="password"><button>Login</button>
+		<br><input type="number" placeholder="number"><br><input type="date"><br><input type="file"><br><br>
+		
+		<input type="radio" name="size" value="s">
+		<span>small</span>
+		<input type="radio" name="size" value="m">
+		<span>medium</span>
+		<input type="radio" name="size" value="l">
+		<span>large</span>
+		<br><br>
+		<select>
+			<option value="s">small</option>
+			<option value="m">medium</option>
+			<option value="l">large</option>
+		</select>
+		<br><br>
+		<input type="checkbox" value="s">
+		<span>small</span>
+		<input type="checkbox" value="m">
+		<span>medium</span>
+		<input type="checkbox" value="l">
+		<span>large</span>
+		<br><br>
+		<textarea style="width:300px; height:150px; resize:none; padding:5px; font-size:20px; color:blue; font-weight:700"></textarea>
+		<br><br>
+		<a href="http://127.0.0.1:8080/likelion_front/login">go login page</a>
+		<br><br>
+		<button></button>
 	</body>
 </html>
