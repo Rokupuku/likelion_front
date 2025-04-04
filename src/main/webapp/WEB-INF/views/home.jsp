@@ -10,8 +10,7 @@
 	</style>
 	</head>
 	<body>
-		<div style="width:200px;height:60px;background:green;
-		margin-top:0px; margin-left:50px; padding-left:10px; box-sizing:border-box">
+		<div style="width:200px; height:60px; background:green; margin-top:0px; margin-left:50px; padding-left:10px; box-sizing:border-box">
 			<div style="width:50px; height:50px; background:red;"></div>
 		</div>
 		<div style="width:300px; height:120px; border:1px solid black; margin-top:20px">
@@ -19,7 +18,7 @@
 			<div style="background:blue; color:white">div 2</div>
 			
 			<span style="background:red; color:white;">span 1</span>
-			<span style="background:red; color:white; display:block" >span 2</span>
+			<span style="background:red; color:white; display:block">span 2</span>
 		</div>
 		
 		<header></header>
@@ -58,6 +57,6 @@
 		<br><br>
 		<a href="http://127.0.0.1:8080/likelion_front/login">go login page</a>
 		<br><br>
-		<button></button>
+		<button>Button</button>
 	</body>
 </html>
